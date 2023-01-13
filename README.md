@@ -1,9 +1,11 @@
 ![gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) 
-
-
-### Hi there 👋 I'm Rami  
-
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+rubber+duck+debugging+page!&center=true&size=17](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=welcome+to+my+page">
+  </a> 
+</h1>
+<h1 align="center">Hi there 👋 I'm Rami  </h1>
+<h3 align="center">Software Developer, Student and Coffee Gourmet</h3>
  
 
 <!-- <p align="center">
