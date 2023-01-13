@@ -1,4 +1,4 @@
-![gif]([https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)) 
+![gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) 
 
 
 ### Hi there 👋 I'm Rami  
