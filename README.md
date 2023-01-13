@@ -8,7 +8,7 @@
 <h2 align="center">Software Developer, Student and Coffee Gourmet</h2>
 <h3>A passionate iOS developer from Turkey, I am a person who is curious about how things work, researchers, tried and believes in continuous improvement to see how I can do better.</h3>
 
- <img src="https://user-images.githubusercontent.com/71966913/206712643-ee8c8f0d-f8f6-4e78-aa95-7cb3737a4c5a.gif" align="right" width="400" height="250">
+ <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="400" height="250">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Clone Tinder App
