@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on Swift
  
- 
+<h3 align="left">🔥Languages & Frameworks & tools & abilities🔥</h3>
+<p align="left"> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+ <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+ </p>
 <!--
 **rami-mustafa/rami-mustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
