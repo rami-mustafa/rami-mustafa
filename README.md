@@ -5,7 +5,9 @@
   </a> 
 </h1>
 <h1 align="center">Hi there 👋 I'm Rami  </h1>
-<h3 align="center">Software Developer, Student and Coffee Gourmet</h3>
+<h2 align="center">Software Developer, Student and Coffee Gourmet</h2>
+<h2 align="center">I am a person who is curious about how things work, researchers, tried and believes in continuous improvement to see how I can do better.</h2>
+
  
 
 <!-- <p align="center">
