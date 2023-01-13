@@ -1,5 +1,10 @@
+![gif]([https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)) 
+
+
 ### Hi there 👋 I'm Rami  
-![snake svg](https://github.com/cihatsolak/cihatsolak/blob/output/github-contribution-grid-snake.svg)
+
+
+ 
 
 <!-- <p align="center">
   <a href="https://github.com/rami-mustafa">
@@ -18,4 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![snake svg](https://github.com/cihatsolak/cihatsolak/blob/output/github-contribution-grid-snake.svg)
+
 -->
