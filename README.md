@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Clone Tinder App
 - 🌱 I’m currently learning Swift
--⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
+- ⚡ I’m enjoy photography, reading, playing soccer, and lifting weights :)
 - 👯 I’m looking to collaborate on Swift
  
 <h3 align="left">🔥Languages & Frameworks & tools & abilities🔥</h3>
