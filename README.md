@@ -6,7 +6,7 @@
 </h1>
 <h1 align="center">Hi there 👋 I'm Rami  </h1>
 <h2 align="center">Software Developer, Student and Coffee Gourmet</h2>
-<h3>A A passionate iOS developer from Turkey, I am a person who is curious about how things work, researches, tries and believes in continuous improvement to see how one can do better..</h3>
+<h3>A passionate iOS developer from Turkey, I am a person who is curious about how things work, researches, tries and believes in continuous improvement to see how one can do better.</h3>
 
  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="400" height="250">
 Here are some ideas to get you started:
