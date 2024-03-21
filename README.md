@@ -11,7 +11,7 @@
  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="400" height="250">
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a netflix app
+- 🔭 I’m currently working on a Netflix app
 - 🌱 I’m currently learning Swift
 - ⚡ I’m enjoying photography, reading, playing soccer, and lifting weights :)
 - 👯 I’m looking to collaborate on Swift
